@@ -3,7 +3,7 @@ My Wezterm Terminal Config
 Font i am using `FiraCode Nerd Font Mono`
 
 ### Download the font from here :
-[](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Retina/FiraCodeNerdFont-Retina.ttf)
+!(https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Retina/FiraCodeNerdFont-Retina.ttf)
 
 <img width="1477" alt="image" src="https://github.com/user-attachments/assets/67fec6db-305e-4a5d-8ce0-468d3e68762e">
 
@@ -21,3 +21,12 @@ wget https://github.com/Rajchowdhury420/Wezterm-config/raw/main/wezterm-config.z
 unzip wezterm-config.zip
 ```
 then restart wezterm terminal , you should be good to goo!!
+
+ to get all terminal info , use this tool called `fastfetch`
+
+ ```
+brew install fastfetch
+```
+```
+fastfetch
+```
