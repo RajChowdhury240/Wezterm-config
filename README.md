@@ -2,6 +2,9 @@
 My Wezterm Terminal Config
 Font i am using `FiraCode Nerd Font Mono`
 
+### Download the font from here :
+[](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Retina/FiraCodeNerdFont-Retina.ttf)
+
 <img width="1477" alt="image" src="https://github.com/user-attachments/assets/67fec6db-305e-4a5d-8ce0-468d3e68762e">
 
 ### How to setup it in Mac ?
